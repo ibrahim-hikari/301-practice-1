@@ -1,0 +1,33 @@
+header {
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+}
+
+main {
+    background-color: floralwhite;
+    color: darkblue;
+    font-size: larger;
+    margin: 10px 0px;
+}
+
+li {
+    list-style: none;
+    display: inline;
+}
+
+ul {
+    display: inline;
+}
+
+ul li:first-child {
+    background-color: rgb(156, 210, 226);
+    border: rgb(111, 144, 111) solid;
+    padding: 5px;
+}
+
+footer {
+    background-color: darkgray;
+    color: black;
+    font-size: large;
+}
